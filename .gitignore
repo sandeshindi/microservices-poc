@@ -2,3 +2,5 @@
 Servers/
 RemoteSystemsTempFiles/
 config-server/.mvn/
+registry-service-eureka/.mvn/
+gateway-service/.mvn/wrapper/MavenWrapperDownloader.java
